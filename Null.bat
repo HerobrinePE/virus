@@ -1,4 +1,4 @@
 @echo off
 :a
-msg * Null
+Message
 goto  a
