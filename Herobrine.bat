@@ -20,6 +20,9 @@ cmd.exe
 cmd.exe
 cmd.exe
 cmd.exe
+pause
+hakk
+pause
 cmd.exe
 cmd.exe
 cmd.exe
