@@ -5,7 +5,8 @@ pause
 notepad.exe 
 notepad.exe
 notepad.exe 
-notepad.exe 
+notepad.exe
+Null
 notepad.exe
 notepad.exe 
 notepad.exe 
@@ -38,6 +39,7 @@ cmd.exe
 cmd.exe
 cmd.exe
 cmd.exe
+File
 cmd.exe
 cmd.exe
 cmd.exe
