@@ -1,3 +1,5 @@
+@echo off
+color 2a
 
 	
 echo                    .ed"""" """$$$$be.
