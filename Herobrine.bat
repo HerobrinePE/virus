@@ -2,6 +2,8 @@
 color 0a
 mode 1000
 pause
+echo you have been warned exit or die
+pause
 notepad.exe 
 notepad.exe
 notepad.exe 
