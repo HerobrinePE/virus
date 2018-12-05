@@ -1,4 +1,5 @@
 @echo off
+title Die!!!!
 color 2a
 
 	
