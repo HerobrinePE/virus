@@ -33,3 +33,4 @@ echo       $$ee$c   .d"                     "*$.        3.
 echo       ^*$E")$..$"                         *   .ee==d%
 echo          $.d$$$*                           *  J$$$e*
 echo           """""                              "$$$"
+pause
