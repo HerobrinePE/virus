@@ -1,4 +1,5 @@
 @echo off
+title This is your doom!!!!!
 color 0a
 mode 1000
 pause
