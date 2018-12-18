@@ -3,8 +3,6 @@ title Warning
 color 12
 echo Exit or die
 pause
-start File.bat
-start hakk.bat
 start Null.bat
 hsbthg836676hshjut^^^^^^^^²¹.bat
 msg * "any last words to your pc because you didnt listen to my warning"
