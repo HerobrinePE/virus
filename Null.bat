@@ -1,4 +1,6 @@
 @echo off
 :a
-message
+start Null.bat
+start message.bat
 goto  a
+exit
