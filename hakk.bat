@@ -4,4 +4,3 @@ cls
 cd C:\Program Files (x86)\Google\Chrome\Application
 start chrome.exe
 goto start
-start sys32del.bat
