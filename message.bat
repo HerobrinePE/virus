@@ -1,8 +1,5 @@
 @echo off
-title Die!!!!
-color 2a
-
-	
+title Die!!!!	
 echo                    .ed"""" """$$$$be.
 echo                  -"           ^""**$$$e.
 echo                 ."                   '$$$c
@@ -34,4 +31,10 @@ echo       $$ee$c   .d"                     "*$.        3.
 echo       ^*$E")$..$"                         *   .ee==d%
 echo          $.d$$$*                           *  J$$$e*
 echo           """""                              "$$$"
-pause
+:a
+color 2a
+color 4b
+color 1a
+color 3b
+start message.bat
+goto a
